@@ -77,7 +77,3 @@ Both use the same tables, so you can point the GUI at the console's database.
 - No user accounts or login
 - The console version builds some SQL by string concatenation; the GUI uses prepared statements
 - No unit tests yet
-
-## License
-
-Choose a license (for example MIT) and add a `LICENSE` file.
